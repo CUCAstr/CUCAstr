@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  Hey! I'm Luca, a student of IT at FIAP and USP in São Paulo, Brazil. I love games, trails, nature, photography, puzzles, and technology! I'm studying to be a full stack developer one day.
+  You can reach me by email or phone: 
+    luca.strefezzi@gmail.com 
+    +55 (11) 94379-9733.
